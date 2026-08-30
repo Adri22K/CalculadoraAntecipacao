@@ -1,8 +1,8 @@
-# Calculadora de Antecipação de Parcelas
+# 📍 Calculadora de Antecipação de Parcelas
 
 Aplicação web para estimar o valor da antecipação de parcelas de contratos consignados pelos sistemas Tabela Price e SAC.
 
-## Funcionalidades
+## ⚙  Funcionalidades
 
 - Simulação pela Tabela Price e pela Tabela SAC;
 - Cálculo para antecipar 1, 3, 5, 10 ou metade das parcelas restantes;
@@ -11,9 +11,10 @@ Aplicação web para estimar o valor da antecipação de parcelas de contratos c
 - Texto formatado para copiar e enviar pelo WhatsApp;
 - Layout adaptado para computador e celular.
 
-## Como executar
+## 📑  Requisitos para executar
 
-Tenha o Node.js 20.9 ou superior instalado. No terminal, dentro da pasta do projeto, execute:
+Instale Node.js 20.9 ou superior. 
+No terminal, dentro da pasta do projeto, execute:
 
 ```bash
 npm install
@@ -22,20 +23,20 @@ npm run dev
 
 Depois, abra `http://localhost:3000` no navegador.
 
-## Gerar a versão de produção
+## ✏️ Gerar a versão de produção
 
 ```bash
 npm run build
 npm start
 ```
 
-## Tecnologias
+<div> 
+  <h1> 🔗 Tecnologias Utilizadas</h1>
 
-- Next.js
-- React
-- TypeScript
-- CSS
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,css)](https://skillicons.dev)
+ </div>
+<div>
 
-## Observação
 
+## ⚠️ Atenção!
 Os resultados são estimativas. O valor oficial deve ser solicitado à instituição financeira responsável pelo contrato.
